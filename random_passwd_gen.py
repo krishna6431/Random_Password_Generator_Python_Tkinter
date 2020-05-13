@@ -1,6 +1,6 @@
 #python program to generate random password
 #using Tkinter Module
-
+#this code is written by krishna_6431
 import random
 import pyperclip
 from tkinter import *
